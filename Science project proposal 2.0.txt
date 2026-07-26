@@ -1,0 +1,33 @@
+﻿Science project proposal.
+Using solar energy and data analytics to help maximize energy gained from the sun. 
+1. Background 
+I plan to research solar panels and their use. I will also research the weather of my home by using popular weather apps. I chose this topic because it isn’t a hard topic and sunlight is easily accessible from most locations in the world. I like this project because I like practicing math skills and learning more about the biggest star in the solar system. 
+2. The problem
+My family wants to install solar panels and they don’t know how much money per panel they are getting in addition to knowing where to install them.
+3. The solution
+The goal of this project is to make a desktop app that will help people find the best angle to position their solar panels to maximize the energy received. The app will help the user find the most possible energy received with certain angles and sizes and time of day. 
+4. The timeline
+August to October: Researching about the details
+August: Researching about the weather patterns in my area
+September: Researching about the solar panels themselves + manufacturers
+October: Learning about how the math for the app is going to work
+November to December: Making the app and testing it
+November: Use the data from the previous months to make an app as accurate as possible
+December: Test it and have others try it and try other apps and cross reference the data.
+5. The delivery
+The final app should have an interactive graph which will calculate the amount of energy received after certain factors are put in such as how much energy it can gain per hour and the average amount of exposed sunlight per day. 
+
+
+6. The timeline but in a table
+
+
+August
+	Researching about the weather patterns in my area
+	September
+	Researching about the solar panels themselves + manufacturers
+	October
+	Learning about how the math for the app is going to work
+	November
+	Use the data from the previous months to make an app as accurate as possible
+	December
+	Test it and have others try it and try other apps and cross reference the data
